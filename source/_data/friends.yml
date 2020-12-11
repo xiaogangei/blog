@@ -1,9 +1,0 @@
-- group: 常用 # 分组标题
-  description:  常用的网址 # 分组描述
-  items:
-    - title:  Google # 名称
-      avatar: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4c2.svg # 头像
-      url:  https://www.baidu.com # 链接
-      screenshot: # 截图
-      keywords: 百度 # 关键词
-      description: 百度一下，你就知道 # 描述

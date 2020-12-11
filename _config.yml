@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: XiaoWei Blog
+title: XiaoGang Blog
 subtitle: '一个自己整理的百科全书。'
 description: ''
 keywords:
-author: XiaoWei
+author: XiaoGang
 language:  zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://xiaogangei.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -103,4 +103,5 @@ theme: volantis
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'git@github.com:xiaogangei/xiaogangei.github.io.git'
