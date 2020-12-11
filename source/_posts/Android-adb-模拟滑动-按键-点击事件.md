@@ -25,6 +25,8 @@ usage: input ...
    input swipe 30 50 30 800
 ```
 ### Android 键盘事件Keycode详细列表
+{% folding Keycode详细列表 %}
+
 KEYCODE_UNKNOWN=0;
 KEYCODE_SOFT_LEFT=1;
 KEYCODE_SOFT_RIGHT=2;
@@ -117,3 +119,5 @@ KEYCODE_MEDIA_PREVIOUS=88;
 KEYCODE_MEDIA_REWIND=89;
 KEYCODE_MEDIA_FAST_FORWARD=90;
 KEYCODE_MUTE=91;
+
+{% endfolding %}
