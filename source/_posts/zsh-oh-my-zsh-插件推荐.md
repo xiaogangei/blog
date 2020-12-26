@@ -5,6 +5,7 @@ date: 2020-12-26 01:53:17
 tags:
 	- 插件
 categories: [Mac]
+headimg: https://s3.ax1x.com/2020/12/26/rhxqO0.jpg
 ---
 在这里整理了一些Mac上ZSH中的常用的插件，使用这些插件可大大提升我们的工作效率。
 <!--more-->

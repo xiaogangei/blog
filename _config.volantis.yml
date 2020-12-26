@@ -15,6 +15,11 @@ search:
     queryKey:
   baidu:
     apiId:
+cover:
+  display:
+    home: true
+    archive: false
+    others: false # can be written in front-matter'cover: true'
 # 自定义鼠标图案
 custom_css:
   cursor:
@@ -46,7 +51,7 @@ color_scheme:
   # ------------
   # 亮色主题（默认）
   light:
-  
+
     # 网站背景色
     site_bg: '#222'
     # 网站背景上的文字

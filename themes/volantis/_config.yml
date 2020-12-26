@@ -19,7 +19,7 @@ info:
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://s3.ax1x.com/2020/12/26/rf2OFe.png
+    img: https://s3.ax1x.com/2020/12/26/rhWRld.png
     icon:
     title:
   menu:
@@ -47,38 +47,38 @@ navbar:
 
 ############################### Cover ############################### > start
 cover:
-  height_scheme: half # full, half
-  layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
+  height_scheme: full # full, half
+  layout_scheme: focus # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   display:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/009.jpg
-  logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: 'XiaoGang Blog'
+  background: https://s3.ax1x.com/2020/12/26/rhIZxe.jpg
+  logo:  https://s3.ax1x.com/2020/12/26/rhWRld.png
+  title: ' '
   subtitle: ''
   search: A Wonderful Theme for Hexo # search bar placeholder
   features:
 
     - name: 博客
-      icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
+      icon: fas fa-rss
+      img:  # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: /
     - name: 分类
-      icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4c2.svg
+      icon: fas fa-folder-open
+      img: # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4c2.svg
       url: categories/
     - name: 标签
-      icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f3f7.svg
+      icon: fas fa-tags
+      img: # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f3f7.svg
       url: tags/
     - name: 归档
-      icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9f0.svg
+      icon: fas fa-archive
+      img: # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9f0.svg
       url: archives/
     - name: 友链
-      icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f517.svg
+      icon: fas fa-link
+      img: # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f517.svg
       url: friends/
 ############################### Cover ############################### > end
 pages:
@@ -155,7 +155,7 @@ article:
       # 默认文章作者（可在 front-matter 中覆盖）
       author:
         avatar:
-        name: XiaoGang
+        name: 小刚
         url: /about/
       # 文章创建日期
       date:
@@ -289,10 +289,10 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: https://s2.ax1x.com/2019/10/19/Kmcm2n.jpg
+      avatar: https://s3.ax1x.com/2020/12/27/r5SFSJ.jpg
       shape: rectangle # circle, rectangle
       url: /about/
-      title: XiaoGang
+      title: 小刚
       subtitle:
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:

@@ -5,6 +5,7 @@ date: 2020-12-21 10:40:26
 tags:
 - 软件分享
 categories: [Mac]
+headimg: https://s3.ax1x.com/2020/12/26/r49P6s.jpg
 ---
 Mac 上常用的软件整理方便以后使用的时候下载
 <!-- more -->
