@@ -81,7 +81,6 @@ cover:
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f517.svg
       url: friends/
 ############################### Cover ############################### > end
-
 pages:
   # 友链页面配置
   friends:
@@ -600,7 +599,7 @@ plugins:
   #   icon: fas fa-moon # 可自定义
   #   toggle: darkmode
   darkmodejs:
-    enable: #true
+    enable: true
 
 ############################### Plugins ############################### > end
 

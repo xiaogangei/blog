@@ -25,3 +25,5 @@ Mac 上常用的软件整理方便以后使用的时候下载
 | Termius | SSH链接工具 |5.13.2 | [下载](https://wws.lanzous.com/ihinidpt8ej)|
 | Celemony Melodyne 5 Studio | 调音工具 | 5.0.1.003 | [下载](https://wws.lanzous.com/i0OMRdps4gb)|
 | RTLWlanU | USB网盘驱动 | 1830.32.b13 | [下载](https://wws.lanzous.com/if50Xjk5y6j)|
+| KeyCue | 应用快捷键显示工具 | 9.8 | [下载](https://wws.lanzous.com/izydTjpyf8b)|
+| DropDMG | DMG镜像制作工具 | 3.6.1 | [下载](https://wws.lanzous.com/ipChmjpygyd)|
