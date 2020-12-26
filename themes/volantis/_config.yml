@@ -19,7 +19,7 @@ info:
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://s3.ax1x.com/2020/12/09/r9bdJK.png
+    img: https://s3.ax1x.com/2020/12/26/rf2OFe.png
     icon:
     title:
   menu:
@@ -55,7 +55,7 @@ cover:
     others: false # can be written in front-matter 'cover: true'
   background: https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/009.jpg
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: 'XiaoWei Blog'
+  title: 'XiaoGang Blog'
   subtitle: ''
   search: A Wonderful Theme for Hexo # search bar placeholder
   features:
