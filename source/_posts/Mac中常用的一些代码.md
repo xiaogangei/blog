@@ -5,6 +5,7 @@ date: 2021-01-04 05:55:51
 tags:
 - 代码
 categories: [Mac]
+headimg: https://s3.ax1x.com/2021/01/13/sNX1FU.png
 ---
 Mac中经常用到的一些代码做了一些整理，方便以后使用
 <!--more -->

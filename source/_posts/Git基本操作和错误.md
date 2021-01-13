@@ -4,6 +4,7 @@ date: 2020-12-11 12:08:32
 tags: -Git
 categories: [Git]
 name: XiaoGang
+headimg: https://s3.ax1x.com/2021/01/13/sNXNO1.png
 ---
 
 ## Git基本操作和错误

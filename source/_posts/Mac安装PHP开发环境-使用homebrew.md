@@ -6,6 +6,7 @@ tags:
   -Mac
   -PHP
 categories: [Mac]
+headimg: https://s3.ax1x.com/2021/01/13/sNXJSJ.png
 ---
 ## 一、安装Nginx
 ### 1.1 安装命令
